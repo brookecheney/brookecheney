@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for a new position/role in software development.
 
-- 🌱 I’m currently learning Typescript/React.
+- 🌱 I’m currently learning about Web 3 and the metaverse.
 
 - 👯 I’m looking to collaborate on open source.
 
